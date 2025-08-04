@@ -49,6 +49,7 @@ Tree_Species_Dataset/ ├── mango/ ├── neem/ ├── banyan/ ├─�
 
 3. Upload your dataset and follow the steps to train or test the model.
 
+4. Dataset link through Google drive: https://drive.google.com/file/d/1bc8Ne_e8Mgc3pLnq-dGYBqzpfHS0vQW5/view?usp=drivesdk
 ## 👨‍💻 Author
 
 - Gowtham (AICTE Internship Project)
